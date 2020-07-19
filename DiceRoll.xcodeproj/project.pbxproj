@@ -54,9 +54,7 @@
 			children = (
 				B08A379A24C4D09C008AF132 /* DiceRollApp.swift */,
 				B08A379C24C4D09C008AF132 /* ContentView.swift */,
-				B08A379E24C4D09E008AF132 /* Assets.xcassets */,
-				B08A37A324C4D09E008AF132 /* Info.plist */,
-				B08A37A024C4D09E008AF132 /* Preview Content */,
+				B08A37A924C4D0C4008AF132 /* Resources */,
 			);
 			path = DiceRoll;
 			sourceTree = "<group>";
@@ -67,6 +65,16 @@
 				B08A37A124C4D09E008AF132 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		B08A37A924C4D0C4008AF132 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				B08A379E24C4D09E008AF132 /* Assets.xcassets */,
+				B08A37A324C4D09E008AF132 /* Info.plist */,
+				B08A37A024C4D09E008AF132 /* Preview Content */,
+			);
+			name = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
